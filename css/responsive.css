@@ -1,0 +1,650 @@
+@media only screen and (min-width:992px) and (max-width: 1920px) {
+/* Main page */
+	.text-header {
+	  padding: 200px 0;
+	}
+	.text-header h1 {
+	  font-size: 35px;
+	}
+	.overlay-main-page h2 {
+	  font-size: 20px;
+	  margin-top: 9%;
+	}
+	.overlay-main-page a.view-button {
+	  padding: 4px 40px;
+	}
+	.padding-60 {
+		padding: 30px 0px; 
+	}
+	/* for video background */
+	.bg-video .text-slider {
+	  top: 50%;
+	}
+	/* for slider background */
+	.main-slider-owl .text-slider {
+	  top: 50%;
+	}
+	/* for parallax background */	
+	.text-slider {
+	  top: 35%;
+	}
+	.section-one {
+		background-size: cover;
+		min-height: 650px;
+	}
+	/* Main menu area */
+	.main-menu ul{
+		margin-top: 15px;
+	}
+	.main-menu ul li a {
+		font-size: 15px;
+		padding: 0 17px;
+	}
+	.icon_social li i {
+		font-size: 19px;
+		margin-left: 16px;
+		width: 36px;
+		height: 36px;
+	}
+	/* Welcome area */
+	.welcome-to h1 {
+		letter-spacing: 0px;
+		line-height: 50px;
+		font-size: 36px;
+	}
+	.welcome-to p {
+		font-size: 14px;
+	}
+	.dinner-onion h4 {
+		font-size: 14px;
+	}
+	.dinner-onion span {
+		font-weight: bold;
+		font-size: 14px;
+	}
+	.hot-deals-offer {
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	.star-offer{
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	/* Service area */
+	.item-image h1 {
+		font-size: 24px;
+	}
+	.special-text {
+		padding-bottom: 60px;
+	}
+	.overlay h2 {
+		font-size: 12px;
+		margin: 10px 0 10px;
+	}
+	.overlay h3 {
+		font-size: 11px;
+		margin-top:0px;
+	}
+	.price-product {
+		font-size: 14px;
+	}
+	.text-menu h4 {
+		font-size: 14px;
+		margin:0px;
+	}
+	.text-menu p {
+		font-size: 13px;
+	}
+	/* Service area */
+	.Services {
+		min-height: 760px;
+	}
+	.item-image {
+		margin-bottom: 50px;
+	}
+	.item-image > p {
+		font-size: 14px;
+	}
+	.service-text {
+		margin-bottom: 50px;
+	}
+	.social-icon-cooks li a {
+		margin-left: 8px
+	}
+	.owl-pagination {
+		bottom: 0%;
+	}
+/*  testimonials area	 */
+	.text-testimonial p {
+		padding: 0px 50px;
+	}
+	/* Contact area */
+	.send-button-contact {
+		height: 45px;
+	}
+	.hot-deals-offer-index1 {
+		top: 59px;
+	}
+	.star-offer-index1 {
+		top: 59px;
+	}
+	.text-slider-index3 {
+		top: 30%;
+	}
+	.bg-video {
+		min-height: 500px;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
+	/* Main page */
+	.text-header {
+	  padding: 200px 0;
+	}
+	.text-header h1 {
+	  font-size: 35px;
+	}
+	.overlay-main-page h2 {
+	  font-size: 20px;
+	  margin-top: 9%;
+	}
+	.overlay-main-page a.view-button {
+	  padding: 4px 40px;
+	}
+	.padding-60 {
+		padding: 30px 0px; 
+	}
+	/* for video background */
+	.bg-video .text-slider {
+	  top: 50%;
+	}
+	/* for slider background */
+	.main-slider-owl .text-slider {
+	  top: 50%;
+	}
+	/* for parallax background */	
+	.text-slider {
+	  top: 35%;
+	}
+	.section-one {
+		background-size: cover;
+		min-height: 650px;
+	}
+	/* Main menu area */
+	.main-menu ul{
+		margin-top: 15px;
+	}
+	.main-menu ul li a {
+	  font-size: 13px;
+	  padding: 0 6px;
+	}
+	.icon_social li i {
+		font-size: 19px;
+		margin-left: 16px;
+		width: 36px;
+		height: 36px;
+	}
+	/* Welcome area */
+	.welcome-to h1 {
+		letter-spacing: 0px;
+		line-height: 50px;
+		font-size: 36px;
+	}
+	.welcome-to p {
+		font-size: 14px;
+	}
+	.dinner-onion h4 {
+		font-size: 14px;
+	}
+	.dinner-onion span {
+		font-weight: bold;
+		font-size: 14px;
+	}
+	.hot-deals-offer {
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	.star-offer{
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	/* Service area */
+	.item-image h1 {
+		font-size: 24px;
+	}
+	.special-text {
+		padding-bottom: 60px;
+	}
+	.overlay h2 {
+		font-size: 12px;
+		margin: 10px 0 10px;
+	}
+	.overlay h3 {
+		font-size: 11px;
+		margin-top:0px;
+	}
+	.price-product {
+		font-size: 14px;
+	}
+	.text-menu h4 {
+		font-size: 14px;
+		margin:0px;
+	}
+	.text-menu p {
+		font-size: 13px;
+	}
+	/* Service area */
+	.Services {
+		min-height: 760px;
+	}
+	.item-image {
+		margin-bottom: 50px;
+	}
+	.item-image > p {
+		font-size: 14px;
+	}
+	.service-text {
+		margin-bottom: 50px;
+	}
+	.social-icon-cooks li a {
+		margin-left: 8px
+	}
+	.owl-pagination {
+		bottom: 0%;
+	}
+/*  testimonials area	 */
+	.text-testimonial p {
+		padding: 0px 50px;
+	}
+	/* Contact area */
+	.send-button-contact {
+		height: 45px;
+	}
+	.hot-deals-offer-index1 {
+		top: 59px;
+	}
+	.star-offer-index1 {
+		top: 59px;
+	}
+	.text-slider-index3 {
+		top: 30%;
+	}
+	.bg-video {
+		min-height: 500px;
+	}
+}
+@media screen and (min-width: 480px) and (max-width:767px){
+	.text-header {
+	  padding: 120px 0 !important;
+	}
+	.text-header h1 {
+	  font-size: 20px;
+	}
+	.overlay-main-page h2 {
+	  margin-top: 17%;
+	}
+	.padding-60 {
+		padding: 30px 0px; 
+	}
+	/* for video background */
+	.bg-video .text-slider {
+	  top: 50% !important;
+	}
+	/* for slider background */
+	.main-slider-owl .text-slider {
+	  top: 50% !important;
+	}
+	/* Parallax Background */
+	.text-slider {
+	  top: 26% !important;
+	}
+	/* Main menu area */
+	.icon-togol {
+		display: block;
+		margin-right: 20px;
+		font-size: 24px;
+		z-index:999;
+	}
+	.header-menu {
+		position: relative;
+	}
+	#nav {
+		display: none;
+		padding-top:25px;
+		background-color: #565929;
+	}
+	.main-menu ul li {
+		display: block;
+		text-align: left;
+	}
+	.main-menu ul li a {
+		border-right: 0px solid #ccc;
+		padding-bottom: 12px;
+		font-size: 16px;
+	}
+	/* Welcome area */
+	.welcome-to h1 {
+		letter-spacing: 0px;
+		line-height: 50px;
+		font-size: 36px;
+	}
+	.welcome-to p {
+		font-size: 14px;
+	}
+	.dinner-onion h4 {
+		font-size: 14px;
+	}
+	.dinner-onion span {
+		font-weight: bold;
+		font-size: 14px;
+	}
+	.hot-deals-offer {
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	.star-offer{
+		padding: 0 10px;
+		right: -24px;
+		top: 30px;
+	}
+	.item-image h1 {
+		font-size: 24px;
+	}
+	.item-image {
+		margin-bottom: 50px;
+	}
+	.item-image > p {
+		font-size: 14px;
+	}
+	/* Service area */
+	.service-text {
+		margin-bottom: 50px;
+	}
+	/* Special selection area */
+	.special-text {
+		padding-bottom: 60px;
+	}
+	.overlay {
+	  top: 30%;
+	}
+	.overlay h2 {
+		font-size: 11px;
+		margin: 10px 0 10px;
+	}
+	.overlay h3 {
+		font-size: 10px;
+		margin-top:0px;
+	}
+	.price-product {
+		font-size: 14px;
+	}
+	/* food menu area */
+	.text-menu h4 {
+		font-size: 14px;
+		margin:0px;
+	}
+	.text-menu p {
+		font-size: 13px;
+	}
+	/* Service area */
+	.Services {
+		min-height: 760px;
+	}
+	/* Testimonials area */
+	.text-testimonial p {
+		padding: 0px 50px;
+	}
+	/* Contact area */
+	.send-button-contact {
+		height: 45px;
+	}
+	.social-icon-cooks li a {
+		margin-left: 8px
+	}
+	.owl-pagination {
+		bottom: 0%;
+	}
+	.hot-deals-offer-index1 {
+		top: 59px;
+	}
+	.star-offer-index1 {
+		top: 59px;
+	}
+	.text-slider-index3 {
+		top: 36%;
+	}
+	.bg-video {
+		min-height: 500px;
+	}
+	/* Blog area */
+	.blog {
+		 padding-top: 0px;
+	}
+	
+}
+@media screen and (min-width: 320px) and (max-width:767px){
+	h1 {
+		letter-spacing: 0px;
+		font-size: 24px;
+	}
+	p{
+		line-height: 20px;
+		padding:0px;
+		font-size: 13px !important;
+		letter-spacing: 0.5px !important;
+	}
+	h4{
+		font-size:14px;
+	}
+	.header-bg {
+		height:inherit;
+}
+	.text-header {
+	  padding: 65px 0;
+	  text-align: center;
+	}
+	.text-header h1 {
+	  color: #d35400;
+	  font-size: 15px;
+	}
+	.padding-60 {
+		padding: 20px;
+	}
+	/* for video background */
+	.bg-video .text-slider {
+	  top: 50%;
+	}
+	/* for slider background */
+	.main-slider-owl .text-slider {
+	  top: 50%;
+	}
+	/* for parallax background */	
+	.text-slider {
+	  top: 33%;
+	}
+	.main-slider-owl .owl-pagination {
+		bottom: -7px;
+	}
+	.section-one {
+		background-size: cover;
+	}
+	.food-iteam li a {
+		font-size: 14px;
+		margin-top: 6px;
+	}
+	.text-slider h1 {
+	  margin: 0;
+	}
+	/* Main menu area */
+	.icon-togol {
+		display: block;
+		margin-right: 20px;
+		font-size: 24px;
+	}
+	.header-menu {
+		position: relative;
+	}
+	#nav {
+		display: none;
+		background-color:#565929;
+		padding:20px 0;
+	}
+	.main-menu ul li {
+		display: block;
+		text-align: left;
+	}
+	.singel-iteam {
+		width: 100%;
+	}
+	.main-menu ul li a {
+		padding-bottom: 10px;
+		border-right: 0px solid #ccc;
+	}
+	.owl-pagination {
+		bottom: -1%;
+	}
+	/* Welcome area */
+	.welcome-to h1 {
+		letter-spacing: 0px; 
+		line-height: 0px;
+		font-size: 18px;
+	}
+	.welcome-to p {
+		font-size: 14px;
+		letter-spacing: 0.5px;
+		margin-top: 25px;
+		line-height: 22px;
+		text-align: justify;
+	}
+	.hot-deals-offer {
+		padding: 0px 6px;
+		top: 30px;
+	}
+	.star-offer{
+		padding: 0px 6px;
+		top: 30px;
+	}
+	.dinner-onion h4 {
+		font-size: 14px;
+	}
+	.dinner-onion span {
+		font-size: 16px;
+ 	}
+	/* Testimonial area */
+	.text-testimonial p {
+		line-height: 20px;
+		text-align: justify;
+		padding:0px;
+	}
+	/* Services area */
+	.service-text p {
+		font-size: 14px;
+		line-height: 21px;
+		text-align: justify;
+	}
+	/* Special selection area */
+	.special-text p {
+		text-align:justify;
+		
+	}
+	.menu-text h1 {
+		line-height: 80px;
+	}
+	.menu-text p {
+		text-align:justify;
+	}
+	.img-cooks img {
+	  width: 100%;
+	}
+	.best-cooks-text p {
+		text-align: justify;
+	}
+		/* Contact area */
+	.send-button-contact {
+		width: 60%;
+		height: 45px;
+	}
+	.input-email, 
+	.input-name {
+		margin-right: 0;
+		width: 100%;
+	}
+	.contact-text p {
+		text-align: justify;
+	}
+	/* Footer area */
+	.design-by {
+		line-height: 30px;
+	}
+	.footer-social-icon li i {
+		width: 26px;
+		height: 26px;
+	}
+	.footer-social-icon li a {
+		font-size: 16px;
+		padding: 8px 5px;
+		margin-left: 0px;
+	}
+	/* For index1 */
+	.hot-deals-offer-index1 {
+		top: 92px;
+		left: 7px;
+	}
+	.star-offer-index1{
+		top: 92px;
+		left: 7px;
+	}
+	.bg-video {
+		min-height: 300px;
+	}
+	.menu-image {
+	  width: 100%;
+	}
+	.menu-image img {
+	  width: 100%;
+	}
+	.text-menu {
+	  margin-top: 45px;
+	  text-align: center;
+	  width: 100%;
+	}
+	.main-menu {
+		position: static;
+	}
+	.section-one {
+		min-height: 380px;
+	}
+	.owl-theme .owl-controls .owl-page span {
+		width: 7px;
+		height: 7px;
+		margin: 3px 7px;
+	}
+	/* Blog area */
+	.blog {
+		 padding-top: 0px;
+	}
+	.blog_text_pr p {
+		line-height: 20px;
+	}
+	.icon_social li i {
+		font-size: 18px;
+		margin-left: 18px;
+		width: 37px;
+		height: 37px;
+	}
+	.icon_social i {
+		margin-top: 30px;
+		margin-bottom: 0;
+	}
+	.recent_post_text {
+		margin-top: 25px;
+	}
+	.button_blog {
+	  float: none;
+	}
+}
